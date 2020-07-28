@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 
 [![JayZhou's github stats](https://github-readme-stats.vercel.app/api?username=CodeMachine0121&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/CodeMachine0121/Custom_Blockchain">
+<img href="https://github.com/CodeMachine0121/Custom_Blockchain">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=CodeMachine0121&repo=Custom_Blockchain&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+</img>
