@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A junior developer</h3>
-
-- 🌱 I’m currently learning **C#, DesignPattern, Refectoring, UnitTesting**
+<h3 align="center">A software engineer</h3>
 
 - 👨‍💻 All of my articles are available at [MyBlog](https://codemachine0121.github.io/)
 
