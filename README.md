@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, DesignPattern, Refectoring, UnitTesting**
 
-- 👨‍💻 All of my articles are available at [MyBlog]([https://codemachine0121.github.io/])
+- 👨‍💻 All of my articles are available at [MyBlog](https://codemachine0121.github.io/)
 
 - 💬 Ask me about **.Net, TDD, Unit Test, LINQ, python**
 
