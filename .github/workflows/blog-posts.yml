@@ -19,7 +19,7 @@ jobs:
       - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://coding-afternoon.com/feed,https://codemachine0121.github.io/feed.xml"
+          feed_list: "https://coding-afternoon.com/rss.xml"
           max_post_count: 5
           template: "$newline- [$title]($url) - $date"
           date_format: "yyyy-MM-dd"
