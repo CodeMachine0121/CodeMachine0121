@@ -25,7 +25,7 @@ const james: Developer = {
   code: ["Go", "C#", "Python", "TypeScript"],
   architecture: ["microservices", "N-Layer", "DDD"],
   currentFocus: "Building scalable backend systems",
-  funFact: "I debug with coffee and determination",
+  funFact: "I debug with whisky and determination",
   challenge: "Learning something new every day",
 };
 ```
