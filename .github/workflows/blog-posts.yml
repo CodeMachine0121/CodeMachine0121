@@ -1,0 +1,28 @@
+name: Latest Blog Posts
+
+on:
+  # 每小時檢查一次
+  schedule:
+    - cron: '0 * * * *'
+  # 允許手動觸發
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://coding-afternoon.com/feed,https://codemachine0121.github.io/feed.xml"
+          max_post_count: 5
+          template: "$newline- [$title]($url) - $date"
+          date_format: "yyyy-MM-dd"
+          commit_message: "docs: update README with latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
