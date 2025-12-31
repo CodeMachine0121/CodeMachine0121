@@ -85,10 +85,6 @@ const james: Developer = {
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMachine0121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMachine0121&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
 </div>
 
@@ -97,7 +93,7 @@ const james: Developer = {
 ## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeMachine0121&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox"/>
 </div>
 
 ---
@@ -131,7 +127,7 @@ const james: Developer = {
 
 ---
 
-## <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=6c63ff&bar_color_cover=true" width="30"> Now Playing
+## <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=216n2cflzlrky36xbbxeak2li&cover_image=true&theme=novatorem&bar_color=6c63ff&bar_color_cover=true" width="30"> Now Playing
 
 <!-- To enable Spotify integration:
 1. Go to https://spotify-github-profile.kittinanx.com/
