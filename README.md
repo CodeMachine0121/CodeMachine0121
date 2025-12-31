@@ -93,7 +93,7 @@ const james: Developer = {
 ## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeMachine0121&theme=gruvbox"/>
 </div>
 
 ---
