@@ -121,7 +121,7 @@ const james: Developer = {
 
 ---
 
-## <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=216n2cflzlrky36xbbxeak2li&cover_image=true&theme=novatorem&bar_color=6c63ff&bar_color_cover=true" width="30"> Now Playing
+## <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" width="30"> Now Playing
 
 <!-- To enable Spotify integration:
 1. Go to https://spotify-github-profile.kittinanx.com/
