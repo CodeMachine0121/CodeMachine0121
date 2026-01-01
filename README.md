@@ -82,14 +82,6 @@ const james: Developer = {
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMachine0121&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
 <div align="center">
@@ -111,6 +103,7 @@ const james: Developer = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Day 1: 系統視角：從「事件」到「結構」的典範轉移](https://coding-afternoon.com/blogs/thinking-in-system/day1-%E7%B3%BB%E7%B5%B1%E8%A6%96%E8%A7%92-%E7%B3%BB%E7%B5%B1%E6%80%9D%E8%80%83%E7%9A%84%E5%BF%85%E8%A6%81%E6%80%A7/) - 2025-00-17
 - [從 SpecKit 到 GSI Protocol：我如何為 AI Agent 打造更「輕量化」的 SDD 框架](https://coding-afternoon.com/blogs/%E5%BE%9E-speckit-%E5%88%B0-gsi-protocol%E5%A6%82%E4%BD%95%E7%82%BA-ai-agent-%E6%89%93%E9%80%A0%E6%9B%B4%E8%BC%95%E9%87%8F%E5%8C%96%E7%9A%84-sdd-%E6%A1%86%E6%9E%B6/) - 2025-00-03
 - [Day 16: 併發任務管理，Worker Pool 模式 Part2 - 優雅地關閉與同步](https://coding-afternoon.com/blogs/goroutine-bootcamp/day-16-%E4%BD%B5%E7%99%BC%E4%BB%BB%E5%8B%99%E7%AE%A1%E7%90%86worker-pool-%E6%A8%A1%E5%BC%8F-part2---%E5%84%AA%E9%9B%85%E5%9C%B0%E9%97%9C%E9%96%89%E8%88%87%E5%90%8C%E6%AD%A5/) - 2025-00-20
