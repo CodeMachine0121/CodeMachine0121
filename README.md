@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeMachine0121/CodeMachine0121/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeMachine0121/CodeMachine0121/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CodeMachine0121/CodeMachine0121/output/github-snake.svg" />
-</picture>
-
 <div align="center">
 
 # `>cat $PROFILE` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -16,6 +10,13 @@
 
 </div>
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeMachine0121/CodeMachine0121/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeMachine0121/CodeMachine0121/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CodeMachine0121/CodeMachine0121/output/github-snake.svg" />
+</picture>
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
