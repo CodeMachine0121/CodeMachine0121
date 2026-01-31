@@ -96,6 +96,23 @@ const james: Developer = {
 
 ---
 
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Statistics
+
+<div align="center">
+
+### Main Metrics
+![GitHub Metrics](https://raw.githubusercontent.com/CodeMachine0121/CodeMachine0121/main/metrics.svg)
+
+### WakaTime Stats
+![WakaTime Stats](https://raw.githubusercontent.com/CodeMachine0121/CodeMachine0121/main/wakatime.svg)
+
+### Achievements
+![Achievements](https://raw.githubusercontent.com/CodeMachine0121/CodeMachine0121/main/achievements.svg)
+
+</div>
+
+---
+
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Featured Projects
 
 ---
