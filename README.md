@@ -111,11 +111,11 @@ const james: Developer = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 7: 協程間的通信 — 深入 Channel &lpar;管道&rpar; 的生產與消費模式](https://coding-afternoon.com/blogs/kotlin-coroutines-bootcamp/day-7-%E5%8D%94%E7%A8%8B%E9%96%93%E7%9A%84%E9%80%9A%E4%BF%A1--%E6%B7%B1%E5%85%A5-channel-%E7%AE%A1%E9%81%93-%E7%9A%84%E7%94%9F%E7%94%A2%E8%88%87%E6%B6%88%E8%B2%BB%E6%A8%A1%E5%BC%8F/) - 2026-00-14
 - [Day 4: 協程的運行環境 — CoroutineContext 與 Dispatchers 詳解](https://coding-afternoon.com/blogs/kotlin-coroutines-bootcamp/day-4-%E5%8D%94%E7%A8%8B%E7%9A%84%E9%81%8B%E8%A1%8C%E7%92%B0%E5%A2%83--coroutinecontext-%E8%88%87-dispatchers/) - 2026-00-14
 - [Day 5: 結構化並發 &lpar;Structured Concurrency&rpar; — 馴服野生協程的韁繩](https://coding-afternoon.com/blogs/kotlin-coroutines-bootcamp/day-5-%E7%B5%90%E6%A7%8B%E5%8C%96%E4%B8%A6%E7%99%BC-structured-concurrency--%E9%A6%B4%E6%9C%8D%E9%87%8E%E7%94%9F%E5%8D%94%E7%A8%8B%E7%9A%84%E9%9F%81%E7%B9%A9/) - 2026-00-14
 - [Day 6: 協程中的異常處理 — 誰該負責這個 Bug？](https://coding-afternoon.com/blogs/kotlin-coroutines-bootcamp/day-6-%E5%8D%94%E7%A8%8B%E4%B8%AD%E7%9A%84%E7%95%B0%E5%B8%B8%E8%99%95%E7%90%86--%E8%AA%B0%E8%A9%B2%E8%B2%A0%E8%B2%AC%E9%80%99%E5%80%8B-bug/) - 2026-00-14
-- [Day 2: 關鍵字大解密 — suspend, runBlocking, coroutineScope, launch](https://coding-afternoon.com/blogs/kotlin-coroutines-bootcamp/day-2-%E9%97%9C%E9%8D%B5%E5%AD%97%E8%A7%A3%E5%AF%86--suspend-runblocking-coroutinescope-launch/) - 2026-00-13
-- [Day 3: 啟動協程的三種姿勢 — launch, async 與 Job 的掌控權](https://coding-afternoon.com/blogs/kotlin-coroutines-bootcamp/day-3-%E5%95%9F%E5%8B%95%E5%8D%94%E7%A8%8B%E7%9A%84%E4%B8%89%E7%A8%AE%E5%A7%BF%E5%8B%A2--launch-async-%E8%88%87-job-%E7%9A%84%E6%8E%8C%E6%8E%A7%E6%AC%8A/) - 2026-00-13<!-- BLOG-POST-LIST:END -->
+- [Day 2: 關鍵字大解密 — suspend, runBlocking, coroutineScope, launch](https://coding-afternoon.com/blogs/kotlin-coroutines-bootcamp/day-2-%E9%97%9C%E9%8D%B5%E5%AD%97%E8%A7%A3%E5%AF%86--suspend-runblocking-coroutinescope-launch/) - 2026-00-13<!-- BLOG-POST-LIST:END -->
 
 > _Check out my blog at [coding-afternoon.com](https://coding-afternoon.com/) for more content!_
 
