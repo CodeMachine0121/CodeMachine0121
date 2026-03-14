@@ -111,11 +111,11 @@ const james: Developer = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rule Table Pattern｜用 TDD 馴服複雜的交叉條件邏輯](https://coding-afternoon.com/blogs/rule-table-pattern%E7%94%A8-tdd-%E9%A6%B4%E6%9C%8D%E8%A4%87%E9%9B%9C%E7%9A%84%E4%BA%A4%E5%8F%89%E6%A2%9D%E4%BB%B6%E9%82%8F%E8%BC%AF/) - 2026-00-22
-- [Day 10: 深入底層 — 協程是如何被編譯成狀態機 &lpar;State Machine&rpar; 的？](https://coding-afternoon.com/blogs/kotlin-coroutines-bootcamp/day-10-%E6%B7%B1%E5%85%A5%E5%BA%95%E5%B1%A4--%E5%8D%94%E7%A8%8B%E6%98%AF%E5%A6%82%E4%BD%95%E8%A2%AB%E7%B7%A8%E8%AD%AF%E6%88%90%E7%8B%80%E6%85%8B%E6%A9%9F-state-machine-%E7%9A%84/) - 2026-00-17
-- [Day 7: 協程間的溝通— 深入 channel 的生產與消費模式](https://coding-afternoon.com/blogs/kotlin-coroutines-bootcamp/day-7-%E5%8D%94%E7%A8%8B%E9%96%93%E7%9A%84%E6%BA%9D%E9%80%9A-%E6%B7%B1%E5%85%A5-channel-%E7%9A%84%E7%94%9F%E7%94%A2%E8%88%87%E6%B6%88%E8%B2%BB%E6%A8%A1%E5%BC%8F/) - 2026-00-16
-- [Day 8: 響應式開發 — Kotlin Flow 基礎與操作](https://coding-afternoon.com/blogs/kotlin-coroutines-bootcamp/day-8-%E9%9F%BF%E6%87%89%E5%BC%8F%E9%96%8B%E7%99%BC--kotlin-flow-%E5%9F%BA%E7%A4%8E%E8%88%87%E6%93%8D%E4%BD%9C/) - 2026-00-16
-- [Day 9: 讓非同步程式碼可測試化 — 使用 runTest 與 TestDispatcher 進行單元測試.md](https://coding-afternoon.com/blogs/kotlin-coroutines-bootcamp/day-9-%E8%AE%93%E9%9D%9E%E5%90%8C%E6%AD%A5%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%8F%AF%E6%B8%AC%E8%A9%A6%E5%8C%96--%E4%BD%BF%E7%94%A8-runtest-%E8%88%87-testdispatcher-%E9%80%B2%E8%A1%8C%E5%96%AE%E5%85%83%E6%B8%AC%E8%A9%A6/) - 2026-00-16<!-- BLOG-POST-LIST:END -->
+- [Day 30：畢業考 — 為 Nixpkgs 貢獻你的第一個 Package](https://coding-afternoon.com/blogs/nixos-bootcamp/30-%E7%95%A2%E6%A5%AD%E8%80%83/) - 2026-00-13
+- [Day 29：系統維護與最佳化 — 讓你的 NixOS 跑得又快又乾淨](https://coding-afternoon.com/blogs/nixos-bootcamp/29-%E7%B3%BB%E7%B5%B1%E7%B6%AD%E8%AD%B7%E8%88%87%E6%9C%80%E4%BD%B3%E5%8C%96/) - 2026-00-12
+- [Day 28：Binary Cache — 別再讓每台機器都從原始碼編譯了](https://coding-afternoon.com/blogs/nixos-bootcamp/28-binary-cache/) - 2026-00-11
+- [Day 27：CI/CD 與 Nix — 讓每一次構建都可重現](https://coding-afternoon.com/blogs/nixos-bootcamp/27-cicd-%E8%88%87-nix/) - 2026-00-10
+- [Day 26：自定義 NixOS Module — 讓你的配置也能像官方服務一樣被呼叫](https://coding-afternoon.com/blogs/nixos-bootcamp/26-%E8%87%AA%E5%AE%9A%E7%BE%A9-nixos-module/) - 2026-00-09<!-- BLOG-POST-LIST:END -->
 
 > _Check out my blog at [coding-afternoon.com](https://coding-afternoon.com/) for more content!_
 
