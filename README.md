@@ -111,11 +111,11 @@ const james: Developer = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 03：Rules 深度剖析：將系統約束編譯為 Agent 的行為準則](https://coding-afternoon.com/blogs/ithome/2026/day-03rules-%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90%E5%B0%87%E7%B3%BB%E7%B5%B1%E7%B4%84%E6%9D%9F%E7%B7%A8%E8%AD%AF%E7%82%BA-agent-%E7%9A%84%E8%A1%8C%E7%82%BA%E6%BA%96%E5%89%87/) - 2026-00-25
+- [Day 02：`.claude/` 目錄協議：打造標準化的 Agent 運作根目錄](https://coding-afternoon.com/blogs/ithome/2026/day-02claude-code-%E5%9F%B7%E8%A1%8C%E5%8D%94%E8%AD%B0%E6%89%93%E9%80%A0%E4%B8%80%E5%80%8B%E6%A8%99%E6%BA%96%E5%8C%96%E7%9A%84-agent-%E5%9F%B7%E8%A1%8C%E5%BC%95%E6%93%8E/) - 2026-00-24
 - [Day 01：Agent 工程化的定義：為什麼我們需要 Workflow Pattern？](https://coding-afternoon.com/blogs/ithome/2026/day-01agent-%E5%B7%A5%E7%A8%8B%E5%8C%96%E7%9A%84%E5%AE%9A%E7%BE%A9%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E5%80%91%E9%9C%80%E8%A6%81workflow-pattern/) - 2026-00-23
 - [Day 30：畢業考 — 為 Nixpkgs 貢獻你的第一個 Package](https://coding-afternoon.com/blogs/nixos-bootcamp/30-%E7%95%A2%E6%A5%AD%E8%80%83/) - 2026-00-13
-- [Day 29：系統維護與最佳化 — 讓你的 NixOS 跑得又快又乾淨](https://coding-afternoon.com/blogs/nixos-bootcamp/29-%E7%B3%BB%E7%B5%B1%E7%B6%AD%E8%AD%B7%E8%88%87%E6%9C%80%E4%BD%B3%E5%8C%96/) - 2026-00-12
-- [Day 28：Binary Cache — 別再讓每台機器都從原始碼編譯了](https://coding-afternoon.com/blogs/nixos-bootcamp/28-binary-cache/) - 2026-00-11
-- [Day 27：CI/CD 與 Nix — 讓每一次構建都可重現](https://coding-afternoon.com/blogs/nixos-bootcamp/27-cicd-%E8%88%87-nix/) - 2026-00-10<!-- BLOG-POST-LIST:END -->
+- [Day 29：系統維護與最佳化 — 讓你的 NixOS 跑得又快又乾淨](https://coding-afternoon.com/blogs/nixos-bootcamp/29-%E7%B3%BB%E7%B5%B1%E7%B6%AD%E8%AD%B7%E8%88%87%E6%9C%80%E4%BD%B3%E5%8C%96/) - 2026-00-12<!-- BLOG-POST-LIST:END -->
 
 > _Check out my blog at [coding-afternoon.com](https://coding-afternoon.com/) for more content!_
 
