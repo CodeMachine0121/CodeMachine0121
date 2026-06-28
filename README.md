@@ -112,10 +112,10 @@ const james: Developer = {
 
 <!-- BLOG-POST-LIST:START -->
 - [Day 08：ReAct Pattern：推理與行動交錯的決策循環](https://coding-afternoon.com/blogs/ithome/2026/day-08react-pattern%E6%8E%A8%E7%90%86%E8%88%87%E8%A1%8C%E5%8B%95%E4%BA%A4%E9%8C%AF%E7%9A%84%E6%B1%BA%E7%AD%96%E5%BE%AA%E7%92%B0/) - 2026-00-30
-- [Day 07：環境整合：一個完整的 .claude/ 專案樣板與一鍵初始化實作](https://coding-afternoon.com/blogs/ithome/2026/day-07%E7%92%B0%E5%A2%83%E6%95%B4%E5%90%88%E4%B8%80%E5%80%8B%E5%AE%8C%E6%95%B4%E7%9A%84-claude-%E5%B0%88%E6%A1%88%E6%A8%A3%E6%9D%BF%E8%88%87%E4%B8%80%E9%8D%B5%E5%88%9D%E5%A7%8B%E5%8C%96%E5%AF%A6%E4%BD%9C/) - 2026-00-29
-- [Day 06：docs/ 與知識庫：建立 Agent 的「架構大局觀」](https://coding-afternoon.com/blogs/ithome/2026/day-06docs-%E8%88%87%E7%9F%A5%E8%AD%98%E5%BA%AB%E5%BB%BA%E7%AB%8B-agent-%E7%9A%84%E6%9E%B6%E6%A7%8B%E5%A4%A7%E5%B1%80%E8%A7%80/) - 2026-00-28
+- [Day 07：整合：把七天疊加成一個可 clone 的 starter](https://coding-afternoon.com/blogs/ithome/2026/day-07%E6%95%B4%E5%90%88%E6%8A%8A%E4%B8%83%E5%A4%A9%E7%96%8A%E5%8A%A0%E6%88%90%E4%B8%80%E5%80%8B%E5%8F%AF-clone-%E7%9A%84-starter/) - 2026-00-29
+- [Day 06：docs 與 context 邊界：放進 .claude 不等於讀得到](https://coding-afternoon.com/blogs/ithome/2026/day-06docs-%E8%88%87-context-%E9%82%8A%E7%95%8C%E6%94%BE%E9%80%B2-claude-%E4%B8%8D%E7%AD%89%E6%96%BC%E8%AE%80%E5%BE%97%E5%88%B0/) - 2026-00-28
 - [AI 時代下的 Extreme Programming：經驗改善估算 — 用資料校準人機速率](https://coding-afternoon.com/blogs/ai-%E6%99%82%E4%BB%A3%E4%B8%8B%E7%9A%84-extreme-programming%E7%B6%93%E9%A9%97%E6%94%B9%E5%96%84%E4%BC%B0%E7%AE%97--%E7%94%A8%E8%B3%87%E6%96%99%E6%A0%A1%E6%BA%96%E4%BA%BA%E6%A9%9F%E9%80%9F%E7%8E%87/) - 2026-00-27
-- [Day 05：commands/ 與執行擴充：定義 Agent 的斜線指令協議](https://coding-afternoon.com/blogs/ithome/2026/day-05commands-%E8%88%87%E5%9F%B7%E8%A1%8C%E6%93%B4%E5%85%85%E5%AE%9A%E7%BE%A9-agent-%E7%9A%84%E6%96%9C%E7%B7%9A%E6%8C%87%E4%BB%A4%E5%8D%94%E8%AD%B0/) - 2026-00-27<!-- BLOG-POST-LIST:END -->
+- [Day 05：settings 與 hooks：唯一真正擋得下動作的 enforce 層](https://coding-afternoon.com/blogs/ithome/2026/day-05settings-%E8%88%87-hooks%E5%94%AF%E4%B8%80%E7%9C%9F%E6%AD%A3%E6%93%8B%E5%BE%97%E4%B8%8B%E5%8B%95%E4%BD%9C%E7%9A%84-enforce-%E5%B1%A4/) - 2026-00-27<!-- BLOG-POST-LIST:END -->
 
 > _Check out my blog at [coding-afternoon.com](https://coding-afternoon.com/) for more content!_
 
