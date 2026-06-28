@@ -112,8 +112,8 @@ const james: Developer = {
 
 <!-- BLOG-POST-LIST:START -->
 - [AI 時代下的 Extreme Programming：經驗改善估算 — 用資料校準人機速率](https://coding-afternoon.com/blogs/ai-%E6%99%82%E4%BB%A3%E4%B8%8B%E7%9A%84-extreme-programming%E7%B6%93%E9%A9%97%E6%94%B9%E5%96%84%E4%BC%B0%E7%AE%97--%E7%94%A8%E8%B3%87%E6%96%99%E6%A0%A1%E6%BA%96%E4%BA%BA%E6%A9%9F%E9%80%9F%E7%8E%87/) - 2026-00-27
-- [Day 05：`docs/` 與知識庫：建立 Agent 的「架構大局觀」](https://coding-afternoon.com/blogs/ithome/2026/day-05docs-%E8%88%87%E7%9F%A5%E8%AD%98%E5%BA%AB%E5%BB%BA%E7%AB%8B-agent-%E7%9A%84%E6%9E%B6%E6%A7%8B%E5%A4%A7%E5%B1%80%E8%A7%80/) - 2026-00-27
-- [Day 04：commands/ 與執行擴充：定義 Agent 的斜線指令協議](https://coding-afternoon.com/blogs/ithome/2026/day-04commands-%E8%88%87%E5%9F%B7%E8%A1%8C%E6%93%B4%E5%85%85%E5%AE%9A%E7%BE%A9-agent-%E7%9A%84%E6%96%9C%E7%B7%9A%E6%8C%87%E4%BB%A4%E5%8D%94%E8%AD%B0/) - 2026-00-26
+- [Day 05： Docs/ 與知識庫：建立 Agent 的「架構大局觀」](https://coding-afternoon.com/blogs/ithome/2026/day-05docs-%E8%88%87%E7%9F%A5%E8%AD%98%E5%BA%AB%E5%BB%BA%E7%AB%8B-agent-%E7%9A%84%E6%9E%B6%E6%A7%8B%E5%A4%A7%E5%B1%80%E8%A7%80/) - 2026-00-27
+- [Day 04：Commands 與執行擴充：定義 Agent 的斜線指令協議](https://coding-afternoon.com/blogs/ithome/2026/day-04commands-%E8%88%87%E5%9F%B7%E8%A1%8C%E6%93%B4%E5%85%85%E5%AE%9A%E7%BE%A9-agent-%E7%9A%84%E6%96%9C%E7%B7%9A%E6%8C%87%E4%BB%A4%E5%8D%94%E8%AD%B0/) - 2026-00-26
 - [Day 03：Rules 深度剖析：將系統約束編譯為 Agent 的行為準則](https://coding-afternoon.com/blogs/ithome/2026/day-03rules-%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90%E5%B0%87%E7%B3%BB%E7%B5%B1%E7%B4%84%E6%9D%9F%E7%B7%A8%E8%AD%AF%E7%82%BA-agent-%E7%9A%84%E8%A1%8C%E7%82%BA%E6%BA%96%E5%89%87/) - 2026-00-25
 - [Day 02：.claude/ 目錄協議：打造標準化的 Agent 運作根目錄](https://coding-afternoon.com/blogs/ithome/2026/day-02claude-code-%E5%9F%B7%E8%A1%8C%E5%8D%94%E8%AD%B0%E6%89%93%E9%80%A0%E4%B8%80%E5%80%8B%E6%A8%99%E6%BA%96%E5%8C%96%E7%9A%84-agent-%E5%9F%B7%E8%A1%8C%E5%BC%95%E6%93%8E/) - 2026-00-24<!-- BLOG-POST-LIST:END -->
 
