@@ -111,11 +111,11 @@ const james: Developer = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 09：CoT &lpar;Chain-of-Thought&rpar; Pattern：強制顯式推理的工程實踐](https://coding-afternoon.com/blogs/ithome/2026/day-09cot-chain-of-thought-pattern%E5%BC%B7%E5%88%B6%E9%A1%AF%E5%BC%8F%E6%8E%A8%E7%90%86%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AF%A6%E8%B8%90/) - 2026-00-01
 - [Day 08：ReAct Pattern：推理與行動交錯的決策循環](https://coding-afternoon.com/blogs/ithome/2026/day-08react-pattern%E6%8E%A8%E7%90%86%E8%88%87%E8%A1%8C%E5%8B%95%E4%BA%A4%E9%8C%AF%E7%9A%84%E6%B1%BA%E7%AD%96%E5%BE%AA%E7%92%B0/) - 2026-00-30
 - [Day 07：整合：把七天疊加成一個可 clone 的 starter](https://coding-afternoon.com/blogs/ithome/2026/day-07%E6%95%B4%E5%90%88%E6%8A%8A%E4%B8%83%E5%A4%A9%E7%96%8A%E5%8A%A0%E6%88%90%E4%B8%80%E5%80%8B%E5%8F%AF-clone-%E7%9A%84-starter/) - 2026-00-29
 - [Day 06：docs 與 context 邊界：放進 .claude 不等於讀得到](https://coding-afternoon.com/blogs/ithome/2026/day-06docs-%E8%88%87-context-%E9%82%8A%E7%95%8C%E6%94%BE%E9%80%B2-claude-%E4%B8%8D%E7%AD%89%E6%96%BC%E8%AE%80%E5%BE%97%E5%88%B0/) - 2026-00-28
-- [AI 時代下的 Extreme Programming：經驗改善估算 — 用資料校準人機速率](https://coding-afternoon.com/blogs/ai-%E6%99%82%E4%BB%A3%E4%B8%8B%E7%9A%84-extreme-programming%E7%B6%93%E9%A9%97%E6%94%B9%E5%96%84%E4%BC%B0%E7%AE%97--%E7%94%A8%E8%B3%87%E6%96%99%E6%A0%A1%E6%BA%96%E4%BA%BA%E6%A9%9F%E9%80%9F%E7%8E%87/) - 2026-00-27
-- [Day 05：settings 與 hooks：唯一真正擋得下動作的 enforce 層](https://coding-afternoon.com/blogs/ithome/2026/day-05settings-%E8%88%87-hooks%E5%94%AF%E4%B8%80%E7%9C%9F%E6%AD%A3%E6%93%8B%E5%BE%97%E4%B8%8B%E5%8B%95%E4%BD%9C%E7%9A%84-enforce-%E5%B1%A4/) - 2026-00-27<!-- BLOG-POST-LIST:END -->
+- [AI 時代下的 Extreme Programming：經驗改善估算 — 用資料校準人機速率](https://coding-afternoon.com/blogs/ai-%E6%99%82%E4%BB%A3%E4%B8%8B%E7%9A%84-extreme-programming%E7%B6%93%E9%A9%97%E6%94%B9%E5%96%84%E4%BC%B0%E7%AE%97--%E7%94%A8%E8%B3%87%E6%96%99%E6%A0%A1%E6%BA%96%E4%BA%BA%E6%A9%9F%E9%80%9F%E7%8E%87/) - 2026-00-27<!-- BLOG-POST-LIST:END -->
 
 > _Check out my blog at [coding-afternoon.com](https://coding-afternoon.com/) for more content!_
 
