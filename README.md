@@ -113,9 +113,9 @@ const james: Developer = {
 <!-- BLOG-POST-LIST:START -->
 - [Day 09：CoT &lpar;Chain-of-Thought&rpar; Pattern：強制顯式推理的工程實踐](https://coding-afternoon.com/blogs/ithome/2026/day-09cot-chain-of-thought-pattern%E5%BC%B7%E5%88%B6%E9%A1%AF%E5%BC%8F%E6%8E%A8%E7%90%86%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AF%A6%E8%B8%90/) - 2026-00-01
 - [Day 08：ReAct Pattern：推理與行動交錯的決策循環](https://coding-afternoon.com/blogs/ithome/2026/day-08react-pattern%E6%8E%A8%E7%90%86%E8%88%87%E8%A1%8C%E5%8B%95%E4%BA%A4%E9%8C%AF%E7%9A%84%E6%B1%BA%E7%AD%96%E5%BE%AA%E7%92%B0/) - 2026-00-30
+- [AI 時代下的 Extreme Programming：引導迭代與發布 — 在 AI 速度下掌舵](https://coding-afternoon.com/blogs/ai-%E6%99%82%E4%BB%A3%E4%B8%8B%E7%9A%84-extreme-programming%E5%BC%95%E5%B0%8E%E8%BF%AD%E4%BB%A3%E8%88%87%E7%99%BC%E5%B8%83--%E5%9C%A8-ai-%E9%80%9F%E5%BA%A6%E4%B8%8B%E6%8E%8C%E8%88%B5/) - 2026-00-29
 - [Day 07：整合：把七天疊加成一個可 clone 的 starter](https://coding-afternoon.com/blogs/ithome/2026/day-07%E6%95%B4%E5%90%88%E6%8A%8A%E4%B8%83%E5%A4%A9%E7%96%8A%E5%8A%A0%E6%88%90%E4%B8%80%E5%80%8B%E5%8F%AF-clone-%E7%9A%84-starter/) - 2026-00-29
-- [AI 時代下的 Extreme Programming：資源、範疇、品質、時間 — AI 動了哪一個變數](https://coding-afternoon.com/blogs/ai-%E6%99%82%E4%BB%A3%E4%B8%8B%E7%9A%84-extreme-programming%E8%B3%87%E6%BA%90%E7%AF%84%E7%96%87%E5%93%81%E8%B3%AA%E6%99%82%E9%96%93--ai-%E5%8B%95%E4%BA%86%E5%93%AA%E4%B8%80%E5%80%8B%E8%AE%8A%E6%95%B8/) - 2026-00-28
-- [Day 06：docs 與 context 邊界：放進 .claude 不等於讀得到](https://coding-afternoon.com/blogs/ithome/2026/day-06docs-%E8%88%87-context-%E9%82%8A%E7%95%8C%E6%94%BE%E9%80%B2-claude-%E4%B8%8D%E7%AD%89%E6%96%BC%E8%AE%80%E5%BE%97%E5%88%B0/) - 2026-00-28<!-- BLOG-POST-LIST:END -->
+- [AI 時代下的 Extreme Programming：資源、範疇、品質、時間 — AI 動了哪一個變數](https://coding-afternoon.com/blogs/ai-%E6%99%82%E4%BB%A3%E4%B8%8B%E7%9A%84-extreme-programming%E8%B3%87%E6%BA%90%E7%AF%84%E7%96%87%E5%93%81%E8%B3%AA%E6%99%82%E9%96%93--ai-%E5%8B%95%E4%BA%86%E5%93%AA%E4%B8%80%E5%80%8B%E8%AE%8A%E6%95%B8/) - 2026-00-28<!-- BLOG-POST-LIST:END -->
 
 > _Check out my blog at [coding-afternoon.com](https://coding-afternoon.com/) for more content!_
 
