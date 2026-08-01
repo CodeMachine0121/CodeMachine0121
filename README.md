@@ -111,11 +111,11 @@ const james: Developer = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 01：會寫程式、但完全不懂交易，量化交易該從哪裡開始](https://coding-afternoon.com/blogs/ithome/2026-02/day-01%E6%9C%83%E5%AF%AB%E7%A8%8B%E5%BC%8F%E4%BD%86%E5%AE%8C%E5%85%A8%E4%B8%8D%E6%87%82%E4%BA%A4%E6%98%93%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E8%A9%B2%E5%BE%9E%E5%93%AA%E8%A3%A1%E9%96%8B%E5%A7%8B/) - 2026-00-15
+- [Day 00：開賽前先聊聊，我為什麼挑了一個自己完全不懂的題目](https://coding-afternoon.com/blogs/ithome/2026-02/day-00%E9%96%8B%E8%B3%BD%E5%89%8D%E5%85%88%E8%81%8A%E8%81%8A%E6%88%91%E7%82%BA%E4%BB%80%E9%BA%BC%E6%8C%91%E4%BA%86%E4%B8%80%E5%80%8B%E8%87%AA%E5%B7%B1%E5%AE%8C%E5%85%A8%E4%B8%8D%E6%87%82%E7%9A%84%E9%A1%8C%E7%9B%AE/) - 2026-00-14
 - [AI 時代下的 Extreme Programming：處理缺陷 — 先紅燈，再讓 AI 動手](https://coding-afternoon.com/blogs/ai-%E6%99%82%E4%BB%A3%E4%B8%8B%E7%9A%84-extreme-programming%E8%99%95%E7%90%86%E7%BC%BA%E9%99%B7--%E5%85%88%E7%B4%85%E7%87%88%E5%86%8D%E8%AE%93-ai-%E5%8B%95%E6%89%8B/) - 2026-00-30
 - [AI 時代下的 Extreme Programming：引導迭代與發布 — 在 AI 速度下掌舵](https://coding-afternoon.com/blogs/ai-%E6%99%82%E4%BB%A3%E4%B8%8B%E7%9A%84-extreme-programming%E5%BC%95%E5%B0%8E%E8%BF%AD%E4%BB%A3%E8%88%87%E7%99%BC%E5%B8%83--%E5%9C%A8-ai-%E9%80%9F%E5%BA%A6%E4%B8%8B%E6%8E%8C%E8%88%B5/) - 2026-00-29
-- [AI 時代下的 Extreme Programming：資源、範疇、品質、時間 — AI 動了哪一個變數](https://coding-afternoon.com/blogs/ai-%E6%99%82%E4%BB%A3%E4%B8%8B%E7%9A%84-extreme-programming%E8%B3%87%E6%BA%90%E7%AF%84%E7%96%87%E5%93%81%E8%B3%AA%E6%99%82%E9%96%93--ai-%E5%8B%95%E4%BA%86%E5%93%AA%E4%B8%80%E5%80%8B%E8%AE%8A%E6%95%B8/) - 2026-00-28
-- [AI 時代下的 Extreme Programming：經驗改善估算 — 用資料校準人機速率](https://coding-afternoon.com/blogs/ai-%E6%99%82%E4%BB%A3%E4%B8%8B%E7%9A%84-extreme-programming%E7%B6%93%E9%A9%97%E6%94%B9%E5%96%84%E4%BC%B0%E7%AE%97--%E7%94%A8%E8%B3%87%E6%96%99%E6%A0%A1%E6%BA%96%E4%BA%BA%E6%A9%9F%E9%80%9F%E7%8E%87/) - 2026-00-27
-- [Day 30：畢業考 — 為 Nixpkgs 貢獻你的第一個 Package](https://coding-afternoon.com/blogs/nixos-bootcamp/30-%E7%95%A2%E6%A5%AD%E8%80%83/) - 2026-00-13<!-- BLOG-POST-LIST:END -->
+- [AI 時代下的 Extreme Programming：資源、範疇、品質、時間 — AI 動了哪一個變數](https://coding-afternoon.com/blogs/ai-%E6%99%82%E4%BB%A3%E4%B8%8B%E7%9A%84-extreme-programming%E8%B3%87%E6%BA%90%E7%AF%84%E7%96%87%E5%93%81%E8%B3%AA%E6%99%82%E9%96%93--ai-%E5%8B%95%E4%BA%86%E5%93%AA%E4%B8%80%E5%80%8B%E8%AE%8A%E6%95%B8/) - 2026-00-28<!-- BLOG-POST-LIST:END -->
 
 > _Check out my blog at [coding-afternoon.com](https://coding-afternoon.com/) for more content!_
 
