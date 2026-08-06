@@ -96,18 +96,6 @@ const james: Developer = {
 
 ---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Statistics
-
-<div align="center">
-
-### Main Metrics
-
-![GitHub Metrics](https://raw.githubusercontent.com/CodeMachine0121/CodeMachine0121/main/metrics.svg)
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -119,21 +107,6 @@ const james: Developer = {
 
 > _Check out my blog at [coding-afternoon.com](https://coding-afternoon.com/) for more content!_
 
----
-
-## <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" width="30"> Now Playing
-
-<!-- To enable Spotify integration:
-1. Go to https://spotify-github-profile.kittinanx.com/
-2. Login with your Spotify account
-3. Replace YOUR_SPOTIFY_ID with your actual Spotify user ID
--->
-
-<div align="center">
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict?si=949c09aa75534ed3)
-
-</div>
 
 ---
 
