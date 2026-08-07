@@ -99,11 +99,11 @@ const james: Developer = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 09：K 線把一分鐘壓成四個數字，中間發生的事呢？認識 Tick 與 L2 Order Book](https://coding-afternoon.com/blogs/ithome/2026-02/day-09k-%E7%B7%9A%E6%8A%8A%E4%B8%80%E5%88%86%E9%90%98%E5%A3%93%E6%88%90%E5%9B%9B%E5%80%8B%E6%95%B8%E5%AD%97%E4%B8%AD%E9%96%93%E7%99%BC%E7%94%9F%E7%9A%84%E4%BA%8B%E5%91%A2%E8%AA%8D%E8%AD%98-tick-%E8%88%87-l2-order-book/) - 2026-00-23
 - [Day 08：第一階段總結：把擷取、清洗、入庫串成一條每天自己跑的 Pipeline](https://coding-afternoon.com/blogs/ithome/2026-02/day-08%E7%AC%AC%E4%B8%80%E9%9A%8E%E6%AE%B5%E7%B8%BD%E7%B5%90%E6%8A%8A%E6%93%B7%E5%8F%96%E6%B8%85%E6%B4%97%E5%85%A5%E5%BA%AB%E4%B8%B2%E6%88%90%E4%B8%80%E6%A2%9D%E6%AF%8F%E5%A4%A9%E8%87%AA%E5%B7%B1%E8%B7%91%E7%9A%84-pipeline/) - 2026-00-22
 - [Day 07：行情資料越存越多、查詢越來越慢？為什麼時序資料庫（TimescaleDB）才是對的容器](https://coding-afternoon.com/blogs/ithome/2026-02/day-07%E8%A1%8C%E6%83%85%E8%B3%87%E6%96%99%E8%B6%8A%E5%AD%98%E8%B6%8A%E5%A4%9A%E6%9F%A5%E8%A9%A2%E8%B6%8A%E4%BE%86%E8%B6%8A%E6%85%A2%E7%82%BA%E4%BB%80%E9%BA%BC%E6%99%82%E5%BA%8F%E8%B3%87%E6%96%99%E5%BA%ABtimescaledb%E6%89%8D%E6%98%AF%E5%B0%8D%E7%9A%84%E5%AE%B9%E5%99%A8/) - 2026-00-21
 - [Day 06：怎麼知道現在是漲太多還是跌太深？用 RSI 把動能量化成 0–100](https://coding-afternoon.com/blogs/ithome/2026-02/day-06%E6%80%8E%E9%BA%BC%E7%9F%A5%E9%81%93%E7%8F%BE%E5%9C%A8%E6%98%AF%E6%BC%B2%E5%A4%AA%E5%A4%9A%E9%82%84%E6%98%AF%E8%B7%8C%E5%A4%AA%E6%B7%B1%E7%94%A8-rsi-%E6%8A%8A%E5%8B%95%E8%83%BD%E9%87%8F%E5%8C%96%E6%88%90-0100/) - 2026-00-20
-- [Day 05：SMA 反應太慢、訊號永遠慢半拍？換上 EMA 並看懂它的遞迴特性](https://coding-afternoon.com/blogs/ithome/2026-02/day-05sma-%E5%8F%8D%E6%87%89%E5%A4%AA%E6%85%A2%E8%A8%8A%E8%99%9F%E6%B0%B8%E9%81%A0%E6%85%A2%E5%8D%8A%E6%8B%8D%E6%8F%9B%E4%B8%8A-ema-%E4%B8%A6%E7%9C%8B%E6%87%82%E5%AE%83%E7%9A%84%E9%81%9E%E8%BF%B4%E7%89%B9%E6%80%A7/) - 2026-00-19
-- [Day 04：均線到底在均什麼？MA 與 SMA 的向量化實作與三個常見算錯的地方](https://coding-afternoon.com/blogs/ithome/2026-02/day-04%E5%9D%87%E7%B7%9A%E5%88%B0%E5%BA%95%E5%9C%A8%E5%9D%87%E4%BB%80%E9%BA%BCma-%E8%88%87-sma-%E7%9A%84%E5%90%91%E9%87%8F%E5%8C%96%E5%AF%A6%E4%BD%9C%E8%88%87%E4%B8%89%E5%80%8B%E5%B8%B8%E8%A6%8B%E7%AE%97%E9%8C%AF%E7%9A%84%E5%9C%B0%E6%96%B9/) - 2026-00-18<!-- BLOG-POST-LIST:END -->
+- [Day 05：SMA 反應太慢、訊號永遠慢半拍？換上 EMA 並看懂它的遞迴特性](https://coding-afternoon.com/blogs/ithome/2026-02/day-05sma-%E5%8F%8D%E6%87%89%E5%A4%AA%E6%85%A2%E8%A8%8A%E8%99%9F%E6%B0%B8%E9%81%A0%E6%85%A2%E5%8D%8A%E6%8B%8D%E6%8F%9B%E4%B8%8A-ema-%E4%B8%A6%E7%9C%8B%E6%87%82%E5%AE%83%E7%9A%84%E9%81%9E%E8%BF%B4%E7%89%B9%E6%80%A7/) - 2026-00-19<!-- BLOG-POST-LIST:END -->
 
 > _Check out my blog at [coding-afternoon.com](https://coding-afternoon.com/) for more content!_
 
