@@ -99,11 +99,11 @@ const james: Developer = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 13：突破了卻馬上被打回來？從流動性擺盪找出假突破的資料特徵](https://coding-afternoon.com/blogs/ithome/2026-02/day-13%E7%AA%81%E7%A0%B4%E4%BA%86%E5%8D%BB%E9%A6%AC%E4%B8%8A%E8%A2%AB%E6%89%93%E5%9B%9E%E4%BE%86%E5%BE%9E%E6%B5%81%E5%8B%95%E6%80%A7%E6%93%BA%E7%9B%AA%E6%89%BE%E5%87%BA%E5%81%87%E7%AA%81%E7%A0%B4%E7%9A%84%E8%B3%87%E6%96%99%E7%89%B9%E5%BE%B5/) - 2026-00-27
 - [Day 12：同樣的價格，有時候很危險有時候沒事：用交易活躍度定義市場的節奏](https://coding-afternoon.com/blogs/ithome/2026-02/day-12%E5%90%8C%E6%A8%A3%E7%9A%84%E5%83%B9%E6%A0%BC%E6%9C%89%E6%99%82%E5%80%99%E5%BE%88%E5%8D%B1%E9%9A%AA%E6%9C%89%E6%99%82%E5%80%99%E6%B2%92%E4%BA%8B%E7%94%A8%E4%BA%A4%E6%98%93%E6%B4%BB%E8%BA%8D%E5%BA%A6%E5%AE%9A%E7%BE%A9%E5%B8%82%E5%A0%B4%E7%9A%84%E7%AF%80%E5%A5%8F/) - 2026-00-26
 - [Day 11：均價要用哪個？VWAP 與成交量加權的資金流視角](https://coding-afternoon.com/blogs/ithome/2026-02/day-11%E5%9D%87%E5%83%B9%E8%A6%81%E7%94%A8%E5%93%AA%E5%80%8Bvwap-%E8%88%87%E6%88%90%E4%BA%A4%E9%87%8F%E5%8A%A0%E6%AC%8A%E7%9A%84%E8%B3%87%E9%87%91%E6%B5%81%E8%A6%96%E8%A7%92/) - 2026-00-25
 - [Day 10：掛單簿買賣兩邊不對稱代表什麼？用 Order Book Imbalance 量化短線壓力](https://coding-afternoon.com/blogs/ithome/2026-02/day-10%E6%8E%9B%E5%96%AE%E7%B0%BF%E8%B2%B7%E8%B3%A3%E5%85%A9%E9%82%8A%E4%B8%8D%E5%B0%8D%E7%A8%B1%E4%BB%A3%E8%A1%A8%E4%BB%80%E9%BA%BC%E7%94%A8-order-book-imbalance-%E9%87%8F%E5%8C%96%E7%9F%AD%E7%B7%9A%E5%A3%93%E5%8A%9B/) - 2026-00-24
-- [Day 09：K 線把一分鐘壓成四個數字，中間發生的事呢？認識 Tick 與 L2 Order Book](https://coding-afternoon.com/blogs/ithome/2026-02/day-09k-%E7%B7%9A%E6%8A%8A%E4%B8%80%E5%88%86%E9%90%98%E5%A3%93%E6%88%90%E5%9B%9B%E5%80%8B%E6%95%B8%E5%AD%97%E4%B8%AD%E9%96%93%E7%99%BC%E7%94%9F%E7%9A%84%E4%BA%8B%E5%91%A2%E8%AA%8D%E8%AD%98-tick-%E8%88%87-l2-order-book/) - 2026-00-23
-- [Day 08：第一階段總結：把擷取、清洗、入庫串成一條每天自己跑的 Pipeline](https://coding-afternoon.com/blogs/ithome/2026-02/day-08%E7%AC%AC%E4%B8%80%E9%9A%8E%E6%AE%B5%E7%B8%BD%E7%B5%90%E6%8A%8A%E6%93%B7%E5%8F%96%E6%B8%85%E6%B4%97%E5%85%A5%E5%BA%AB%E4%B8%B2%E6%88%90%E4%B8%80%E6%A2%9D%E6%AF%8F%E5%A4%A9%E8%87%AA%E5%B7%B1%E8%B7%91%E7%9A%84-pipeline/) - 2026-00-22<!-- BLOG-POST-LIST:END -->
+- [Day 09：K 線把一分鐘壓成四個數字，中間發生的事呢？認識 Tick 與 L2 Order Book](https://coding-afternoon.com/blogs/ithome/2026-02/day-09k-%E7%B7%9A%E6%8A%8A%E4%B8%80%E5%88%86%E9%90%98%E5%A3%93%E6%88%90%E5%9B%9B%E5%80%8B%E6%95%B8%E5%AD%97%E4%B8%AD%E9%96%93%E7%99%BC%E7%94%9F%E7%9A%84%E4%BA%8B%E5%91%A2%E8%AA%8D%E8%AD%98-tick-%E8%88%87-l2-order-book/) - 2026-00-23<!-- BLOG-POST-LIST:END -->
 
 > _Check out my blog at [coding-afternoon.com](https://coding-afternoon.com/) for more content!_
 
