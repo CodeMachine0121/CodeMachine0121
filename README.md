@@ -99,11 +99,11 @@ const james: Developer = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 16：每寫一個策略就複製貼上一份程式？把策略拆成可以互相組合的積木](https://coding-afternoon.com/blogs/ithome/2026-02/day-16%E6%AF%8F%E5%AF%AB%E4%B8%80%E5%80%8B%E7%AD%96%E7%95%A5%E5%B0%B1%E8%A4%87%E8%A3%BD%E8%B2%BC%E4%B8%8A%E4%B8%80%E4%BB%BD%E7%A8%8B%E5%BC%8F%E6%8A%8A%E7%AD%96%E7%95%A5%E6%8B%86%E6%88%90%E5%8F%AF%E4%BB%A5%E4%BA%92%E7%9B%B8%E7%B5%84%E5%90%88%E7%9A%84%E7%A9%8D%E6%9C%A8/) - 2026-00-30
 - [Day 15：第二階段總結：把指標從散落的函式收斂成可重用的 feature 模組](https://coding-afternoon.com/blogs/ithome/2026-02/day-15%E7%AC%AC%E4%BA%8C%E9%9A%8E%E6%AE%B5%E7%B8%BD%E7%B5%90%E6%8A%8A%E6%8C%87%E6%A8%99%E5%BE%9E%E6%95%A3%E8%90%BD%E7%9A%84%E5%87%BD%E5%BC%8F%E6%94%B6%E6%96%82%E6%88%90%E5%8F%AF%E9%87%8D%E7%94%A8%E7%9A%84-feature-%E6%A8%A1%E7%B5%84/) - 2026-00-29
 - [Day 14：支撐壓力線可以不用手畫嗎？用 Volume Profile 自動找出籌碼密集區](https://coding-afternoon.com/blogs/ithome/2026-02/day-14%E6%94%AF%E6%92%90%E5%A3%93%E5%8A%9B%E7%B7%9A%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E6%89%8B%E7%95%AB%E5%97%8E%E7%94%A8-volume-profile-%E8%87%AA%E5%8B%95%E6%89%BE%E5%87%BA%E7%B1%8C%E7%A2%BC%E5%AF%86%E9%9B%86%E5%8D%80/) - 2026-00-28
 - [Day 13：突破了卻馬上被打回來？從流動性擺盪找出假突破的資料特徵](https://coding-afternoon.com/blogs/ithome/2026-02/day-13%E7%AA%81%E7%A0%B4%E4%BA%86%E5%8D%BB%E9%A6%AC%E4%B8%8A%E8%A2%AB%E6%89%93%E5%9B%9E%E4%BE%86%E5%BE%9E%E6%B5%81%E5%8B%95%E6%80%A7%E6%93%BA%E7%9B%AA%E6%89%BE%E5%87%BA%E5%81%87%E7%AA%81%E7%A0%B4%E7%9A%84%E8%B3%87%E6%96%99%E7%89%B9%E5%BE%B5/) - 2026-00-27
-- [Day 12：同樣的價格，有時候很危險有時候沒事：用交易活躍度定義市場的節奏](https://coding-afternoon.com/blogs/ithome/2026-02/day-12%E5%90%8C%E6%A8%A3%E7%9A%84%E5%83%B9%E6%A0%BC%E6%9C%89%E6%99%82%E5%80%99%E5%BE%88%E5%8D%B1%E9%9A%AA%E6%9C%89%E6%99%82%E5%80%99%E6%B2%92%E4%BA%8B%E7%94%A8%E4%BA%A4%E6%98%93%E6%B4%BB%E8%BA%8D%E5%BA%A6%E5%AE%9A%E7%BE%A9%E5%B8%82%E5%A0%B4%E7%9A%84%E7%AF%80%E5%A5%8F/) - 2026-00-26
-- [Day 11：均價要用哪個？VWAP 與成交量加權的資金流視角](https://coding-afternoon.com/blogs/ithome/2026-02/day-11%E5%9D%87%E5%83%B9%E8%A6%81%E7%94%A8%E5%93%AA%E5%80%8Bvwap-%E8%88%87%E6%88%90%E4%BA%A4%E9%87%8F%E5%8A%A0%E6%AC%8A%E7%9A%84%E8%B3%87%E9%87%91%E6%B5%81%E8%A6%96%E8%A7%92/) - 2026-00-25<!-- BLOG-POST-LIST:END -->
+- [Day 12：同樣的價格，有時候很危險有時候沒事：用交易活躍度定義市場的節奏](https://coding-afternoon.com/blogs/ithome/2026-02/day-12%E5%90%8C%E6%A8%A3%E7%9A%84%E5%83%B9%E6%A0%BC%E6%9C%89%E6%99%82%E5%80%99%E5%BE%88%E5%8D%B1%E9%9A%AA%E6%9C%89%E6%99%82%E5%80%99%E6%B2%92%E4%BA%8B%E7%94%A8%E4%BA%A4%E6%98%93%E6%B4%BB%E8%BA%8D%E5%BA%A6%E5%AE%9A%E7%BE%A9%E5%B8%82%E5%A0%B4%E7%9A%84%E7%AF%80%E5%A5%8F/) - 2026-00-26<!-- BLOG-POST-LIST:END -->
 
 > _Check out my blog at [coding-afternoon.com](https://coding-afternoon.com/) for more content!_
 
