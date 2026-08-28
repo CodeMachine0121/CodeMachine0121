@@ -40,8 +40,10 @@ More at [coding-afternoon.com](https://coding-afternoon.com/).
 
 ### Stack
 
-Go · C# / .NET · Python · TypeScript · Kotlin  
-Gin, ASP.NET Core, FastAPI — PostgreSQL, MongoDB, Redis — Docker, Kubernetes, GitHub Actions
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,cs,dotnet,py,ts,kotlin,fastapi,postgres,mongodb,redis,docker,kubernetes,githubactions&perline=7&theme=light">
+  <img src="https://skillicons.dev/icons?i=go,cs,dotnet,py,ts,kotlin,fastapi,postgres,mongodb,redis,docker,kubernetes,githubactions&perline=7" alt="Go, C#, .NET, Python, TypeScript, Kotlin, FastAPI, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, GitHub Actions">
+</picture>
 
 <sub>The Writing section is refreshed daily from my RSS feed by a
 [GitHub Action](https://github.com/CodeMachine0121/CodeMachine0121/blob/main/.github/workflows/blog-posts.yml).</sub>
