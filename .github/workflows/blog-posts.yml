@@ -1,16 +1,26 @@
-name: Latest Blog Posts
+name: Blog posts
+
+# Keeps the "Writing" section of README.md in sync with the RSS feed of
+# coding-afternoon.com. This is the only automation in this repository.
 
 on:
-  # 每小時檢查一次
   schedule:
-    - cron: '0 * * * *'
-  # 允許手動觸發
+    # 01:00 UTC = 09:00 Asia/Taipei, once a day.
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: blog-posts
+  cancel-in-progress: false
+
 jobs:
-  update-readme-with-blog:
+  update-readme:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Checkout
@@ -21,8 +31,9 @@ jobs:
         with:
           feed_list: "https://coding-afternoon.com/rss.xml"
           max_post_count: 5
-          template: "$newline- [$title]($url) - $date"
-          date_format: "yyyy-MM-dd"
-          commit_message: "docs: update README with latest blog posts"
+          template: "$newline- [$title]($url) — $date"
+          # `dateformat` tokens: mm is month, MM would be minutes.
+          date_format: "yyyy-mm-dd"
+          commit_message: "docs: refresh latest blog posts"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
