@@ -42,8 +42,8 @@ More at [coding-afternoon.com](https://coding-afternoon.com/).
 **Languages**
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Ccs%2Cdotnet%2Cpy%2Cts%2Ckotlin%2Crust%2Clua&perline=10&theme=light">
-  <img src="https://skillicons.dev/icons?i=go%2Ccs%2Cdotnet%2Cpy%2Cts%2Ckotlin%2Crust%2Clua&perline=10" alt="Go, C#, .NET, Python, TypeScript, Kotlin, Rust, Lua">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Ccs%2Cdotnet%2Cpy%2Cts%2Ckotlin%2Clua&perline=10&theme=light">
+  <img src="https://skillicons.dev/icons?i=go%2Ccs%2Cdotnet%2Cpy%2Cts%2Ckotlin%2Clua&perline=10" alt="Go, C#, .NET, Python, TypeScript, Kotlin, Lua">
 </picture>
 
 **Frameworks & apps**
