@@ -56,8 +56,8 @@ More at [coding-afternoon.com](https://coding-afternoon.com/).
 **Data, infra & tooling**
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Credis%2Cmongodb%2Celasticsearch%2Cdocker%2Ckubernetes%2Cnix%2Clinux%2Cgithubactions%2Cneovim&perline=10&theme=light">
-  <img src="https://skillicons.dev/icons?i=postgres%2Credis%2Cmongodb%2Celasticsearch%2Cdocker%2Ckubernetes%2Cnix%2Clinux%2Cgithubactions%2Cneovim&perline=10" alt="PostgreSQL, Redis, MongoDB, Elasticsearch, Docker, Kubernetes, Nix, Linux, GitHub Actions, Neovim">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Credis%2Celasticsearch%2Cdocker%2Ckubernetes%2Cnix%2Clinux%2Cgithubactions%2Cneovim&perline=10&theme=light">
+  <img src="https://skillicons.dev/icons?i=postgres%2Credis%2Celasticsearch%2Cdocker%2Ckubernetes%2Cnix%2Clinux%2Cgithubactions%2Cneovim&perline=10" alt="PostgreSQL, Redis, Elasticsearch, Docker, Kubernetes, Nix, Linux, GitHub Actions, Neovim">
 </picture>
 
 <sub>The Writing section is refreshed daily from my RSS feed by a
