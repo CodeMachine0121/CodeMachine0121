@@ -39,9 +39,25 @@ More at [coding-afternoon.com](https://coding-afternoon.com/).
 
 ### Stack
 
+**Languages**
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,cs,dotnet,py,ts,kotlin,fastapi,postgres,mongodb,redis,docker,kubernetes,githubactions&perline=7&theme=light">
-  <img src="https://skillicons.dev/icons?i=go,cs,dotnet,py,ts,kotlin,fastapi,postgres,mongodb,redis,docker,kubernetes,githubactions&perline=7" alt="Go, C#, .NET, Python, TypeScript, Kotlin, FastAPI, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, GitHub Actions">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Ccs%2Cdotnet%2Cpy%2Cts%2Ckotlin%2Crust%2Clua&perline=10&theme=light">
+  <img src="https://skillicons.dev/icons?i=go%2Ccs%2Cdotnet%2Cpy%2Cts%2Ckotlin%2Crust%2Clua&perline=10" alt="Go, C#, .NET, Python, TypeScript, Kotlin, Rust, Lua">
+</picture>
+
+**Frameworks & apps**
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cvue%2Castro%2Ctauri%2Cfastapi&perline=10&theme=light">
+  <img src="https://skillicons.dev/icons?i=react%2Cvue%2Castro%2Ctauri%2Cfastapi&perline=10" alt="React, Vue, Astro, Tauri, FastAPI">
+</picture>
+
+**Data, infra & tooling**
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Credis%2Cmongodb%2Celasticsearch%2Cdocker%2Ckubernetes%2Cnix%2Clinux%2Cgithubactions%2Cneovim&perline=10&theme=light">
+  <img src="https://skillicons.dev/icons?i=postgres%2Credis%2Cmongodb%2Celasticsearch%2Cdocker%2Ckubernetes%2Cnix%2Clinux%2Cgithubactions%2Cneovim&perline=10" alt="PostgreSQL, Redis, MongoDB, Elasticsearch, Docker, Kubernetes, Nix, Linux, GitHub Actions, Neovim">
 </picture>
 
 <sub>The Writing section is refreshed daily from my RSS feed by a
