@@ -22,9 +22,8 @@ instead of letting them generate spaghetti faster than anyone can read it.
 | :--- | :--- |
 | [GSI-Protocol](https://github.com/CodeMachine0121/GSI-Protocol) | Spec-driven development workflow for AI-assisted coding: Specification → Architecture → Implementation → Verification. Python. |
 | [SDD-Skill](https://github.com/CodeMachine0121/SDD-Skill) | A Claude Code plugin whose skills carry a feature from domain language all the way to production-ready code. |
-| [Claude-Code-Skill-DDD](https://github.com/CodeMachine0121/Claude-Code-Skill-DDD) | Conversational skills for strategic design and Event Storming — bounded contexts and aggregates, by dialogue. |
-| [skill-manager](https://github.com/CodeMachine0121/skill-manager) | Desktop app (Tauri 2 + React + Rust) for authoring, generating, and refining Claude Code skills. |
-| [LazyVim-Dotfile](https://github.com/CodeMachine0121/LazyVim-Dotfile) | My Neovim setup — modular LSP and test wiring for Go, TypeScript, and friends. |
+| [Go-Trading](https://github.com/CodeMachine0121/go-trading) |A platform let users writing their strategy script and compose them to a real trading strategy. |
+
 
 ### Writing
 
