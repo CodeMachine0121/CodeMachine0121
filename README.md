@@ -28,11 +28,11 @@ instead of letting them generate spaghetti faster than anyone can read it.
 ### Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Ledger Domain Know How for Beginner](https://coding-afternoon.com/blogs/ledger-domain-know-how-for-beginner/) — 2026-10-29
 - [一張日線圖讓服務重啟：K 線即時更新斷線的追查與彙總優化](https://coding-afternoon.com/blogs/%E4%B8%80%E5%BC%B5%E6%97%A5%E7%B7%9A%E5%9C%96%E8%AE%93%E6%9C%8D%E5%8B%99%E9%87%8D%E5%95%9Fk-%E7%B7%9A%E5%8D%B3%E6%99%82%E6%9B%B4%E6%96%B0%E6%96%B7%E7%B7%9A%E7%9A%84%E8%BF%BD%E6%9F%A5%E8%88%87%E5%BD%99%E7%B8%BD%E5%84%AA%E5%8C%96/) — 2026-10-18
 - [Day 30：完賽總結：自動化替我們執行了哪些紀律，以及這套系統的下一步](https://coding-afternoon.com/blogs/ithome/2026-02/day-30%E5%AE%8C%E8%B3%BD%E7%B8%BD%E7%B5%90%E8%87%AA%E5%8B%95%E5%8C%96%E6%9B%BF%E6%88%91%E5%80%91%E5%9F%B7%E8%A1%8C%E4%BA%86%E5%93%AA%E4%BA%9B%E7%B4%80%E5%BE%8B%E4%BB%A5%E5%8F%8A%E9%80%99%E5%A5%97%E7%B3%BB%E7%B5%B1%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AD%A5/) — 2026-10-14
 - [Day 29：遇到閃崩、交易所停機、資料斷檔怎麼辦？把極端行情當成邊緣案例來測](https://coding-afternoon.com/blogs/ithome/2026-02/day-29%E9%81%87%E5%88%B0%E9%96%83%E5%B4%A9%E4%BA%A4%E6%98%93%E6%89%80%E5%81%9C%E6%A9%9F%E8%B3%87%E6%96%99%E6%96%B7%E6%AA%94%E6%80%8E%E9%BA%BC%E8%BE%A6%E6%8A%8A%E6%A5%B5%E7%AB%AF%E8%A1%8C%E6%83%85%E7%95%B6%E6%88%90%E9%82%8A%E7%B7%A3%E6%A1%88%E4%BE%8B%E4%BE%86%E6%B8%AC/) — 2026-10-13
-- [Day 28：策略虧錢了，但說不出是哪裡出錯？用結構化交易日誌還原每一筆決策](https://coding-afternoon.com/blogs/ithome/2026-02/day-28%E7%AD%96%E7%95%A5%E8%99%A7%E9%8C%A2%E4%BA%86%E4%BD%86%E8%AA%AA%E4%B8%8D%E5%87%BA%E6%98%AF%E5%93%AA%E8%A3%A1%E5%87%BA%E9%8C%AF%E7%94%A8%E7%B5%90%E6%A7%8B%E5%8C%96%E4%BA%A4%E6%98%93%E6%97%A5%E8%AA%8C%E9%82%84%E5%8E%9F%E6%AF%8F%E4%B8%80%E7%AD%86%E6%B1%BA%E7%AD%96/) — 2026-10-12
-- [Day 27：本機跑得好好的，上雲就掛？用 Docker 把機器人打包部署到 VPS](https://coding-afternoon.com/blogs/ithome/2026-02/day-27%E6%9C%AC%E6%A9%9F%E8%B7%91%E5%BE%97%E5%A5%BD%E5%A5%BD%E7%9A%84%E4%B8%8A%E9%9B%B2%E5%B0%B1%E6%8E%9B%E7%94%A8-docker-%E6%8A%8A%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%89%93%E5%8C%85%E9%83%A8%E7%BD%B2%E5%88%B0-vps/) — 2026-10-11<!-- BLOG-POST-LIST:END -->
+- [Day 28：策略虧錢了，但說不出是哪裡出錯？用結構化交易日誌還原每一筆決策](https://coding-afternoon.com/blogs/ithome/2026-02/day-28%E7%AD%96%E7%95%A5%E8%99%A7%E9%8C%A2%E4%BA%86%E4%BD%86%E8%AA%AA%E4%B8%8D%E5%87%BA%E6%98%AF%E5%93%AA%E8%A3%A1%E5%87%BA%E9%8C%AF%E7%94%A8%E7%B5%90%E6%A7%8B%E5%8C%96%E4%BA%A4%E6%98%93%E6%97%A5%E8%AA%8C%E9%82%84%E5%8E%9F%E6%AF%8F%E4%B8%80%E7%AD%86%E6%B1%BA%E7%AD%96/) — 2026-10-12<!-- BLOG-POST-LIST:END -->
 
 More at [coding-afternoon.com](https://coding-afternoon.com/).
 
